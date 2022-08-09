@@ -1,6 +1,4 @@
 
-
-
     Create a MINI project to generate Fibonacci numbers in a range and write it to File
     for example: fibonacci numbers from 10 to 1000
 
